@@ -1,6 +1,6 @@
 {
     "baseUrl":"https://google.com",
-    "myname" : "Raghav",
+    "myname" : "Raghav12",
     "watchForFileChanges": false,
     "screenshotOnRunFailure": true,
     "defaultCommandTimeout" : 4000
