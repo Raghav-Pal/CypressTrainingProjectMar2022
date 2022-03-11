@@ -1,0 +1,22 @@
+
+{
+
+  "test1":{
+
+    "name":"abcd",
+    "id"  : 123
+  },
+  "test2":{
+
+    "name":"abcd",
+    "id"  : 123
+  },
+
+
+
+
+
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
